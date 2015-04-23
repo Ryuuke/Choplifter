@@ -31,6 +31,7 @@
 #define HELICO_CENTER 21 // le centre de l'elico (toute la partie qui se pose sur le sole et que la balle peu atteindre)
 
 #define TEMP_ANIMATION_GRAVITY  100
+#define ANIMATIOn_TIME 60
 #define HP_HELICO_DEFAULT 3
 #define POSITION_SAVE_OTAGE 400 // position max pour poser les otages dans la base
 
